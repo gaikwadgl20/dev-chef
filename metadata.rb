@@ -1,6 +1,6 @@
 name 'dev-chef'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Ganesh Gaikwad'
+maintainer_email 'gaikwadgl20@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures dev-chef'
 long_description 'Installs/Configures dev-chef'
